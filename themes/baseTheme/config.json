@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "type": "txt",
+
+    "title": "sniper",
+    "resize": {"width": -1, "height": -1},
+    "indicator": ">>",
+    "log seperator": "\t[LOG]\n",
+
+    "script": "theme.py",
+    "logo": "logo.txt",
+    "printText": "printText.txt"
+}
